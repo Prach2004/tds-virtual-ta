@@ -1,0 +1,14 @@
+2025-06-13T21:06:45.875Z [ERROR]: Could not identify provider: [1mlocal-api-embedding[22m.
+
+[37mPlease check your configuration and ensure the provider is correctly specified.[39m
+[37m[39m
+[37mFor more information on supported providers, visit:[39m [36mhttps://promptfoo.dev/docs/providers/[39m
+2025-06-13T21:06:45.879Z [ERROR]: Failed to validate configuration: Could not identify provider: [1mlocal-api-embedding[22m.
+
+[37mPlease check your configuration and ensure the provider is correctly specified.[39m
+[37m[39m
+[37mFor more information on supported providers, visit:[39m [36mhttps://promptfoo.dev/docs/providers/[39m
+2025-06-14T09:44:53.131Z [ERROR]: [Http Provider] Error in response transform: SyntaxError: Unexpected token '%'. Data: {"detail":"Not Found"}. Text: {"detail":"Not Found"}. Context: {"response":{"cached":false,"data":"{\"detail\":\"Not Found\"}","status":404,"statusText":"Not Found","headers":{"content-length":"22","content-type":"application/json","date":"Sat, 14 Jun 2025 09:44:52 GMT","server":"uvicorn"}}}.
+2025-06-14T09:44:53.154Z [ERROR]: [Http Provider] Error in response transform: SyntaxError: Unexpected token '%'. Data: {"detail":"Not Found"}. Text: {"detail":"Not Found"}. Context: {"response":{"cached":false,"data":"{\"detail\":\"Not Found\"}","status":404,"statusText":"Not Found","headers":{"content-length":"22","content-type":"application/json","date":"Sat, 14 Jun 2025 09:44:52 GMT","server":"uvicorn"}}}.
+2025-06-14T09:44:53.182Z [ERROR]: [Http Provider] Error in response transform: SyntaxError: Unexpected token '%'. Data: {"detail":"Not Found"}. Text: {"detail":"Not Found"}. Context: {"response":{"cached":false,"data":"{\"detail\":\"Not Found\"}","status":404,"statusText":"Not Found","headers":{"content-length":"22","content-type":"application/json","date":"Sat, 14 Jun 2025 09:44:52 GMT","server":"uvicorn"}}}.
+2025-06-14T09:44:53.198Z [ERROR]: [Http Provider] Error in response transform: SyntaxError: Unexpected token '%'. Data: {"detail":"Not Found"}. Text: {"detail":"Not Found"}. Context: {"response":{"cached":false,"data":"{\"detail\":\"Not Found\"}","status":404,"statusText":"Not Found","headers":{"content-length":"22","content-type":"application/json","date":"Sat, 14 Jun 2025 09:44:52 GMT","server":"uvicorn"}}}.

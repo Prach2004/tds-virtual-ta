@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "llm-test": "^3.68.10"
+  },
+  "name": "tds-virtual-ta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
